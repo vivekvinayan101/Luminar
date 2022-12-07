@@ -1,3 +1,6 @@
-.nav-link:hover{
-    color: purple;
+.container-fluid{
+    display: flex;
+    flex-wrap: inherit;
+    align-items: center;
+    justify-content: space-between;
 }
